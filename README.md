@@ -1,4 +1,4 @@
-<details><summary><h1>PB тест</h1></summary>
+<h1><details><summary>PB тест</summary></h1>
 
    1. + [Параграфы и разрывы строк](#Parag);
 
